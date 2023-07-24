@@ -131,7 +131,7 @@ img {
 }
 #aboutimage img {
     width: 100%;
-    height: 360px;
+    /* height: 360px; */
     object-fit: cover;
 }
 #abouttext {
@@ -254,7 +254,7 @@ footer p {
     }
     #aboutimage img {
         width: 100%;
-        height: 300px;
+        /* height: 300px; */
         object-fit: cover;
     }
     #abouttext {
